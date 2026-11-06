@@ -1,5 +1,7 @@
 <p align="center">DE-FLEUR.</p>
 
+![HTML5](https://shields.io)
+
 <!--
 **ohhellovich/ohhellovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
