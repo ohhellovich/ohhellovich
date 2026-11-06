@@ -1,4 +1,4 @@
-<p align="center" style="color:pink">DE-FLEUR.</p>
+<p align="center">DE-FLEUR.</p>
 
 <!--
 **ohhellovich/ohhellovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
